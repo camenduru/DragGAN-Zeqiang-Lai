@@ -1,3 +1,10 @@
 gradio
+tqdm
+torch
+torchvision
+numpy
 ninja
 fire
+imageio
+imageio-ffmpeg
+scikit-image
